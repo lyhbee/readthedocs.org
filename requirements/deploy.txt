@@ -205,7 +205,7 @@ funcy==1.18
     # via
     #   -r requirements/pip.txt
     #   django-cacheops
-gunicorn==21.2.0
+gunicorn==23.0.0
     # via -r requirements/pip.txt
 idna==3.4
     # via
