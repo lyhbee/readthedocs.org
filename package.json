@@ -10,7 +10,7 @@
     "vendor": "gulp vendor"
   },
   "dependencies": {
-    "bowser": "^1.9.3",
+    "bowser": "^2.13.1",
     "cssfilter": "0.0.8",
     "github-changelog": "git+https://github.com/agjohnson/github-changelog.git",
     "npm": "^6.1.0"
